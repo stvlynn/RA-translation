@@ -1,2 +1,2 @@
 # RA-translation
-A tool that helps you translate LLM training data into other language
+A tool that helps you translate LLM training dataset into other language
